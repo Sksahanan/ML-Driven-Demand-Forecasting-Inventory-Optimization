@@ -119,5 +119,3 @@ Traditional forecasting struggled with seasonality, promotions, and volatility, 
 
 ---
 
-## 📂 Repository Structure
-
